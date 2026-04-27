@@ -5,7 +5,7 @@ Made for Potato Gaming Summer 2026 server
 
 
 <details>
-<summary>Spoiler</summary>
+<summary>Picture of Gameplay</summary>
 
 ![A thriving village by the food stand](https://cdn.modrinth.com/data/cached_images/2258b37951c4d247c7cb922fc5a6903624321c83.jpeg)
 
