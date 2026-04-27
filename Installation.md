@@ -1,6 +1,5 @@
 # How to install Potatocraft
-Step 1: Install Prism Launcher \
-https://prismlauncher.org/download/windows/ \
+Step 1: Install [Prism Launcher](https://prismlauncher.org/download/windows/) \
 Step 2: Run the installer \
 Step 3: Login with your microsoft account
 
