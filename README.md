@@ -3,7 +3,7 @@ Potatocraft is a Kitchen sink modpack, mostly consistning of Vanilla+ mods. It w
 
 Made for Potato Gaming Summer 2026 server
 
-Installation Guide: Scroll down
+Installation Guide: [Scroll Down](#How-to-install-Potatocraft)
 
 <details>
 <summary>Picture of Gameplay</summary>
@@ -150,7 +150,7 @@ Mod List:
 - [Zoomify](https://modrinth.com/mod/w7ThoJFB) [2\.15\.2\+1\.21\.1] by isXander
 - [libIPN](https://modrinth.com/mod/onSQdWhM) [6\.6\.3] by Mirinimi
 
-# How to install Potatocraft
+## How to install Potatocraft
 Step 1: Install [Prism Launcher](https://prismlauncher.org/download/windows/) \
 Step 2: Run the installer \
 Step 3: Login with your microsoft account
