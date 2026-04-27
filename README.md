@@ -177,9 +177,6 @@ Note: You can pick to add one of the two leaves, or not. The performance differe
 
 Step 13: Click Done, and let the resource packs load. Then go to Video Settings. \
 Step 14: At the top, click Shader Packs. Pick one of the two options available. I recommend Solar, as that is what the modpack was designed with in mind, but BSL works too. \
-Step 15: Click Apply, then Done. \
-Step 16: Now in the Main Menu again, Click on Multiplayer, and click Add Server. \
-Step 17: Name the server, and put **209.25.140.27:1027** in for Server Address. \
-Step 18: Click Done, and click Join Server.
+Step 15: Click Apply, then Done.
 
-Welcome to Potato SMP! You are now in the game.
+Welcome to Potato SMP!
