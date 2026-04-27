@@ -14,7 +14,7 @@ Made for Potato Gaming Summer 2026 server
 
 
 Shaders:
-Solas shader by Septonious
+[Solas shader](https://modrinth.com/shader/solas-shader) by Septonious
 
 Mod List:
 - [Additional Structures](https://modrinth.com/mod/TWsbC6jW) [5\.1\.0\-fabric] by XxRexRaptorxX
