@@ -11,4 +11,9 @@ Step 4: Download the Potatocraft.mrpack file from this repo \
 Step 5: Click "Add Instance" in the top left corner of the launcher \
 Step 6: On the left side of the window, find Import \
 Step 7: Now under Import, click Browse, and select the Potatocraft.mrpack file, then click "Ok" in the New Instance window \
-Step 8: 
+Step 8: Once finished, click on the newly created Instance, and click edit \
+Step 9: While not mandatory, you should allocate 8192 MB of RAM if possible. If you have 16 GB Total for your system, you can do 6144 MB. Do not allocate more than 8192 MB. \
+Step 10: Click Launch \
+Step 11: Now looking at the main menu, click Options and go to Resource packs. \
+Step 12: If they are not enabled, they should be enabled in this order:
+
