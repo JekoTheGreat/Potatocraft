@@ -3,7 +3,7 @@ Potatocraft is a Kitchen sink modpack, mostly consistning of Vanilla+ mods. It w
 
 Made for Potato Gaming Summer 2026 server
 
-Installation Guide: [Scroll Down](#How-to-install-Potatocraft)
+[Installation Guide](#How-to-install-Potatocraft)
 
 <details>
 <summary>Picture of Gameplay</summary>
