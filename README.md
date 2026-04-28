@@ -32,7 +32,7 @@ Mod List:
 - [Bobby](https://modrinth.com/mod/M08ruV16) [5\.2\.4\+mc1\.21] by johni0702
 - [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) [21\.1\.81] by Darkhax
 - [CIT Resewn](https://modrinth.com/mod/otVJckYQ) [1\.2\.2\+1\.21] by SHsuperCM
-- [Cauldron Concrete Powder](https://modrinth.com/datapack/cauldron-concrete-powder) [1\.1\.0] by Stoupy51
+- [Cauldron Concrete Powder](https://modrinth.com/mod/sKa9BOA6) [1\.1\.0] by Stoupy51
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0\.15\.1] by dzwdz, Fourmisain
 - [ChatAnimation](https://modrinth.com/mod/DnNYdJsx) [1\.1\.3] by Ezzenix
 - [Chef's Delight](https://modrinth.com/mod/pvcsfne4) [1\.0\.5\-fabric\-1\.21\.1] by Redstone Games
@@ -40,17 +40,17 @@ Mod List:
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/fgmhI8kH) [3\.6\.3] by ChoiceTheorem
 - [Cloth Config v15](https://modrinth.com/mod/9s6osm5g) [15\.0\.140] by shedaniel
 - [Clumps](https://modrinth.com/mod/Wnxd13zP) [19\.0\.0\.1] by Jared
-- [Collective](https://www.curseforge.com/projects/342584) [8\.20] by Rick South
+- [Collective](https://modrinth.com/mod/e0M1UDsY) [8\.20] by Rick South
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) [0\.3\.0\+alpha\.0\.135\+1\.21\.1] by RelativityMC, ishland
 - [Controlling](https://modrinth.com/mod/xv94TkTM) [19\.0\.5] by Jaredlll08
 - [CoroUtil](https://modrinth.com/mod/rLLJ1OZM) [1\.21\.1\-1\.3\.8] by Corosus
-- [Craftable Nametag](https://modrinth.com/datapack/craftable-nametag) [48\.1] by Craemon
+- [Craftable Nametag](https://modrinth.com/mod/UgFSv6UG) [48\.1] by Craemon
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) [2\.13\.29] by CreativeMD, AriaFreeze
 - [Creeper Overhaul](https://modrinth.com/mod/MI1LWe93) [4\.0\.6] by Artist/Creator \- Joosh, Dev \- ThatGravyBoat
 - [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF) [3\.0\.0\+mc1\.21] by Kir\_Antipov
 - [Cut Through](https://modrinth.com/mod/Dk6su9JN) [21\.1\.0] by Fuzs
 - [Disable Custom Worlds Advice](https://modrinth.com/mod/HdwRs3kc) [6\.0] by rdvdev2
-- [Double Doors](https://serilum.com/mod/double-doors) [7\.2] by Rick South
+- [Double Doors](https://modrinth.com/mod/JrvR9OHr) [7\.2] by Rick South
 - [Drip Sounds](https://modrinth.com/mod/T8MMXTpr) [0\.5\.2] by PieKing1215
 - [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww) [1\-v4\.4\.4] by NovaWostra, Konci, Walls
 - [Dungeons and Taverns Ancient City Overhaul](https://modrinth.com/mod/DNuNq5bb) [1\-v2] by NovaWostra
@@ -82,14 +82,15 @@ Mod List:
 - [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H) [4\.8\.4] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
 - [Grind Enchantments](https://modrinth.com/mod/WC4UgDcZ) [4\.0\.0\+1\.21\.1] by mschae23
 - [Handcrafted](https://modrinth.com/mod/pJmCFF0p) [4\.0\.3] by Alex Nijjar, Kekie6
+- [Happy Ghast Legacy](https://modrinth.com/mod/zi5opIfD) [1\.8] by IAFEnvoy
 - [Hold My Items](https://modrinth.com/mod/AP8rDDLS) [4\.3] by sapling\.
 - [Iceberg](https://modrinth.com/mod/5faXoLqX) [1\.3\.2] by Grend
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1\.6\.10\+1\.21\.1] by RK\_01
-- [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) [1\.4\.3\+1\.21\.1] by Luke100000
+- [Immersive Aircraft](https://modrinth.com/mod/x3HZvrj6) [1\.4\.3\+1\.21\.1] by Luke100000
 - [Immersive Armors](https://modrinth.com/mod/eE2Db4YU) [1\.7\.5\+1\.21\.1] by Luke100000
-- [Immersive Machinery](https://www.curseforge.com/minecraft/mc-mods/immersive-machinery) [0\.2\.0\+1\.21\.1] by Luke100000
+- [Immersive Machinery](https://modrinth.com/mod/kGP3J2TW) [0\.2\.0\+1\.21\.1] by Luke100000
 - [ImmersiveUI](https://modrinth.com/mod/9wv7LuMc) [0\.3\.3] by OctoStudios
-- [Inventory Profiles Next](https://inventory-profiles-next.github.io/) [2\.2\.6] by Mirinimi
+- [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n) [2\.2\.6] by Mirinimi
 - [Iris](https://modrinth.com/mod/YL57xq9U) [1\.8\.8\+mc1\.21\.1] by coderbot, IMS212, Justsnoopy30, FoundationGames
 - [Jade](https://modrinth.com/mod/nvQzSEkH) [15\.10\.5\+fabric] by Snownee
 - [JamLib](https://modrinth.com/mod/IYY9Siz8) [1\.3\.6\+1\.21\.1] by Jamalam
@@ -104,7 +105,7 @@ Mod List:
 - [Lithostitched](https://modrinth.com/mod/XaDC71GB) [1\.6\.8] by Apollo
 - [MaLiLib](https://modrinth.com/mod/GcWjdA9I) [0\.21\.10] by masa
 - [MidnightLib](https://modrinth.com/mod/codAaoxh) [1\.9\.2] by Motschen
-- [Moar Concrete](https://fabricmc.net/) [1\.3\.1] by McJamweasel
+- [Moar Concrete](https://modrinth.com/mod/lXDzrLAm) [1\.3\.1] by McJamweasel
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) [11\.0\.4] by Prospector, haykam821, TerraformersMC
 - [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) [1\.21\-1\.6] by MehVahdJukaar
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) [1\.21\-2\.29\.33] by MehVahdJukaar
@@ -139,14 +140,14 @@ Mod List:
 - [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) [1\.21\.1\-1\.5\.1] by Sonic Ether, vlad2305m, Max Henkel, Saint
 - [Storage Drawers](https://modrinth.com/mod/guitPqEi) [13\.11\.4] by Texelsaur
 - [SuperMartijn642's Config Library](https://modrinth.com/mod/LN9BxssP) [1\.1\.8] by SuperMartijn642
-- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) [1\.21\-3\.5\.33] by MehVahdJukaar, Plantkillable
+- [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) [1\.21\-3\.5\.33] by MehVahdJukaar, Plantkillable
 - [TCD Commons API](https://modrinth.com/mod/Eldc1g37) [3\.12\.7\+fabric\-1\.21] by TheCSDev
 - [Tectonic](https://modrinth.com/mod/lWDHr9jE) [3\.0\.22] by Apollo
 - [Universal Ores](https://modrinth.com/mod/68kWHuUF) [v1\.6\.1] by Hugman
 - [Visual Workbench](https://modrinth.com/mod/kfqD1JRw) [21\.1\.1] by Fuzs
 - [What Are They Up To](https://modrinth.com/mod/AtB5mHky) [1\.21\.0\-1\.2\.7] by Corosus
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3\.8\.2\+1\.21\.1\-fabric] by isXander
-- [You're in Grave Danger](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger) [2\.4\.18] by b1n\_ry
+- [You're in Grave Danger](https://modrinth.com/mod/HnD1GX6e) [2\.4\.18] by b1n\_ry
 - [Zoomify](https://modrinth.com/mod/w7ThoJFB) [2\.15\.2\+1\.21\.1] by isXander
 - [libIPN](https://modrinth.com/mod/onSQdWhM) [6\.6\.3] by Mirinimi
 
