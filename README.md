@@ -159,7 +159,7 @@ Step 3: Login with your microsoft account
 **IF YOU ALREADY HAVE PRISM INSTALLED, THIS IS CRITICAL!!!** \
 **Update the client at the top of your screen! The game will not launch unless your client is updated!**
 
-Step 4: Download the Potatocraft.mrpack file from this repo \
+Step 4: Download the latest [Potatocraft.mrpack](https://github.com/JekoTheGreat/Potatocraft/releases) file. \
 Step 5: Click "Add Instance" in the top left corner of the launcher \
 Step 6: On the left side of the window, find Import \
 Step 7: Now under Import, click Browse, and select the Potatocraft.mrpack file, then click "Ok" in the New Instance window \
