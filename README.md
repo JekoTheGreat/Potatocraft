@@ -3,7 +3,8 @@ Potatocraft is a Kitchen sink modpack, mostly consistning of Vanilla+ mods. It w
 
 Made for Potato Gaming Summer 2026 server
 
-[Installation Guide](#How-to-install-Potatocraft)
+[Installation Guide](#How-to-install-Potatocraft) \
+[Frequently Asked Questions](#FAQ)
 
 <details>
 <summary>Picture of Gameplay</summary>
@@ -181,3 +182,16 @@ Step 14: At the top, click Shader Packs. Pick one of the two options available. 
 Step 15: Click Apply, then Done.
 
 Welcome to Potato SMP!
+
+## FAQ
+**Do I have to use Prism?** - For right now, yes. I don't currently have any other way to distribute the modpack. If you really didn't want to use Prism for some reason, you could make a Fabric installation in the vanilla launcher and manually add each mod, but that would take a substantial amount of time.
+
+**My game is really laggy, is there any fix?** - Yes! Disable shaders. You can try the hotkey 'k' but it may not work. If this does not work, go to Settings -> Video Settings -> Shader Packs and 'Shaders: Enabled' at the top to turn them off.
+
+**How do I protect my base?** - We have a chunk claim mod, which will allow you to claim chunks on the server, only accessible by your team. You will likely need to modify your keybinds for the 'Open Parties and Claims Menu' then open it. Clicking Claim will claim the chunk you are currently in. \
+**Alternatively:** In game, open chat and type '/openpac-claims claim' to claim the chunk you are currently in.
+
+**How do I make a team?** - In game, open chat and type '/openpac-parties create' - This will create a party, but you need to name it. Now click your keybind for 'Open Parties and Claims Menu' and click 'Player Config Menu' and then click 'My Player Config' then type the name of your team in the 'Party Name' blank. \
+**TL;DL** - Open Parties and Claims Menu -> Player Config Menu -> My Player Config -> Party Name **(TEXT BOX)**
+
+**How do I invite my friends?** - In game, open chat and type '/openpac-parties member invite YOUR FRIENDS IN-GAME-NAME'
